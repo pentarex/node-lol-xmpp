@@ -30,6 +30,8 @@
   "dependencies": {
     "events": "^1.0.1",
     "node-xmpp": "^1.0.0-alpha1",
-    "qbox": "^0.1.7"
+    "qbox": "^0.1.7",
+    "xml2js": "^0.4.3",
+    "xtend": "^3.0.0"
   }
 }
